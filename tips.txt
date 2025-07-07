@@ -1,1199 +1,200 @@
-🚀 Daily Dev Tip #1
-
-Java Tip #30: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #2
-
-Dev Tip #29: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #3
-
-DSA Tip #24: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #4
-
-Use Lighthouse to audit your web app performance.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #5
-
-Dev Tip #35: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #6
-
-Dev Tip #30: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #7
-
-Make your sites mobile-first using media queries.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #8
-
-Join open-source projects to improve real-world skills.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #9
-
-Use annotations like @Override and @Deprecated correctly.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #10
-
-Push regularly to avoid merge conflicts.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #11
-
-Use try-with-resources to automatically close streams and avoid memory leaks.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #12
-
-Dev Tip #24: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #13
-
-Use meaningful commit messages like 'Fix login bug' instead of 'Update'.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #14
-
-Prefer composition over inheritance when designing classes.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #15
-
-Java Tip #92: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #16
-
-Prefix sum helps in subarray sum queries.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #17
-
-Avoid blocking operations on the main thread in Android development.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #18
-
-Java Tip #93: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #19
-
-Always document your methods using Javadoc.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #20
-
-DSA Tip #23: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #21
-
-Java Tip #89: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #22
-
-Java Tip #96: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #23
-
-Dev Tip #47: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #24
-
-DSA Tip #45: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #25
-
-Java Tip #26: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #26
-
-DSA Tip #37: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #27
-
-Leverage method references to make lambda code more readable.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #28
-
-Java Tip #27: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #29
-
-Dev Tip #50: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #30
-
-Java Tip #95: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #31
-
-DSA Tip #32: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #32
-
-Test your code using unit tests and assertions.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #33
-
-Java Tip #39: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #34
-
-Use meaningful and descriptive names for methods and variables.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #35
-
-Java Tip #65: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #36
-
-Use HTTPS to secure your web applications.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #37
-
-Java Tip #77: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #38
-
-DSA Tip #22: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #39
-
-Java Tip #22: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #40
-
-Java Tip #24: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #41
-
-Java Tip #90: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #42
-
-DSA Tip #21: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #43
-
-Always override toString(), equals(), and hashCode() in data objects.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #44
-
-Dev Tip #36: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #45
-
-Java Tip #49: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #46
-
-Java Tip #56: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #47
-
-Dev Tip #43: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #48
-
-Java Tip #68: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #49
-
-Dev Tip #42: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #50
-
-Use Union-Find for disjoint set operations.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #51
-
-Avoid public fields; always encapsulate with private fields and public getters/setters.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #52
-
-Avoid static unless necessary, especially in multi-threaded apps.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #53
-
-Mark variables as final when you don’t plan to reassign them.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #54
-
-DSA Tip #34: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #55
-
-Java Tip #58: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #56
-
-DSA Tip #41: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #57
-
-Master Trie data structure for string problems.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #58
-
-Java Tip #66: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #59
-
-Dev Tip #49: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #60
-
-Java Tip #37: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #61
-
-Avoid memory leaks by removing unused listeners and references.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #62
-
-Dev Tip #39: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #63
-
-Use switch expressions (Java 14+) for cleaner branching.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #64
-
-Java Tip #61: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #65
-
-Dev Tip #38: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #66
-
-DSA Tip #40: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #67
-
-Dev Tip #21: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #68
-
-Java Tip #67: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #69
-
-Java Tip #76: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #70
-
-Java Tip #28: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #71
-
-Dev Tip #28: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #72
-
-Java Tip #74: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #73
-
-Java Tip #21: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #74
-
-Java Tip #99: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #75
-
-Use hash maps for quick lookups instead of nested loops.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #76
-
-Java Tip #42: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #77
-
-Dev Tip #46: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #78
-
-Java Tip #34: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #79
-
-Java Tip #40: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #80
-
-HTML5 semantic tags improve accessibility and SEO.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #81
-
-Use flexbox and grid layout in CSS to build responsive UIs.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #82
-
-DSA Tip #25: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #83
-
-DSA Tip #33: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #84
-
-Learn Markdown for better GitHub Readmes and documentation.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #85
-
-Java Tip #31: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #86
-
-Java Tip #32: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #87
-
-Automate repetitive tasks using scripts or CI/CD tools.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #88
-
-Dev Tip #45: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #89
-
-Prefer interfaces with default methods to abstract classes.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #90
-
-Java Tip #60: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #91
-
-DSA Tip #46: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #92
-
-Java Tip #23: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #93
-
-DSA Tip #28: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #94
-
-Dev Tip #33: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #95
-
-Read official documentation before asking on forums.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #96
-
-Java Tip #75: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #97
-
-Understand time and space complexity of every algorithm you use.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #98
-
-Memoization helps avoid recomputation in recursive problems.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #99
-
-Use stack for backtracking problems like expression parsing.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #100
-
-Java Tip #81: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #101
-
-Java Tip #48: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #102
-
-Java Tip #100: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #103
-
-Sliding window is great for contiguous subarray problems.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #104
-
-Use code linters to enforce coding standards.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #105
-
-Understand dynamic programming states and transitions.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #106
-
-Use java.time package instead of java.util.Date for time manipulation.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #107
-
-Java Tip #44: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #108
-
-Use loading=“lazy” on images to improve performance.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #109
-
-Use heaps for priority-based retrieval.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #110
-
-Java Tip #50: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #111
-
-Dev Tip #48: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #112
-
-Binary search reduces time complexity from O(n) to O(log n).
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #113
-
-Use BFS for shortest path in unweighted graphs.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #114
-
-Understand difference between == and === in JavaScript.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #115
-
-Java Tip #79: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #116
-
-Java Tip #98: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #117
-
-Java Tip #73: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #118
-
-Java Tip #54: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #119
-
-Java Tip #91: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #120
-
-Use environment variables to hide sensitive credentials.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #121
-
-Java Tip #33: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #122
-
-Practice problems on trees and traversals: Inorder, Preorder, Postorder.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #123
-
-Use StringBuilder instead of String concatenation in loops for better performance.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #124
-
-Use Streams API for concise data processing.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #125
-
-DSA Tip #42: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #126
-
-Dev Tip #41: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #127
-
-Java Tip #97: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #128
-
-Dev Tip #32: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #129
-
-Java Tip #94: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #130
-
-DSA Tip #48: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #131
-
-Dev Tip #22: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #132
-
-Java Tip #69: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #133
-
-Java Tip #62: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #134
-
-Java Tip #55: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #135
-
-Learn to detect cycles in directed and undirected graphs.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #136
-
-Java Tip #59: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #137
-
-Java Tip #78: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #138
-
-Java Tip #46: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #139
-
-Java Tip #25: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #140
-
-Never store passwords in plain text — always hash them.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #141
-
-DSA Tip #27: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #142
-
-Master common sorting algorithms and their time complexities.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #143
-
-Java Tip #38: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #144
-
-Graphs can be represented using adjacency lists or matrices.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #145
-
-DSA Tip #49: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #146
-
-Java Tip #87: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #147
-
-Java Tip #86: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #148
-
-Dev Tip #44: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #149
-
-Java Tip #63: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #150
-
-Java Tip #51: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #151
-
-Java Tip #29: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #152
-
-DSA Tip #30: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #153
-
-Master the two-pointer technique for array problems.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #154
-
-Java Tip #45: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #155
-
-Java Tip #70: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #156
-
-DSA Tip #26: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #157
-
-Dev Tip #37: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #158
-
-Practice recursion and understand base + recursive cases.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #159
-
-DSA Tip #36: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #160
-
-Bit manipulation can solve problems efficiently in low memory.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #161
-
-Java Tip #35: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #162
-
-Java Tip #80: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #163
-
-DSA Tip #39: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #164
-
-Java Tip #57: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #165
-
-Dev Tip #23: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #166
-
-Java Tip #47: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #167
-
-Use DFS for deep exploration and cycle detection.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #168
-
-Dev Tip #27: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #169
-
-Java Tip #83: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #170
-
-Java Tip #52: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #171
-
-DSA Tip #38: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #172
-
-Use Optional to handle nullable return values safely.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #173
-
-Always use .gitignore to avoid uploading unwanted files.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #174
-
-Use enums instead of integer constants for type safety.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #175
-
-DSA Tip #44: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #176
-
-Dev Tip #25: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #177
-
-Java Tip #82: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #178
-
-DSA Tip #31: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #179
-
-Minify CSS/JS before deploying web apps.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #180
-
-Java Tip #84: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #181
-
-DSA Tip #35: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #182
-
-Java Tip #41: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #183
-
-Java Tip #64: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #184
-
-Java Tip #88: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #185
-
-Use logging frameworks instead of System.out.println.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #186
-
-Comment why, not what — explain logic, not syntax.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #187
-
-Java Tip #85: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #188
-
-DSA Tip #50: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #189
-
-Java Tip #53: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #190
-
-Java Tip #72: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #191
-
-Java Tip #43: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #192
-
-DSA Tip #29: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #193
-
-Dev Tip #40: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #194
-
-Java Tip #71: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #195
-
-DSA Tip #47: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #196
-
-Java Tip #36: Practice writing clean OOP designs and refactor often.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #197
-
-Dev Tip #34: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #198
-
-Dev Tip #26: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #199
-
-DSA Tip #43: Solve at least 2 problems daily on arrays or strings.
-
-#CodeNewbie #DevTips #100DaysOfCode
-
-🚀 Daily Dev Tip #200
-
-Dev Tip #31: Learn a new tool or shortcut each week.
-
-#CodeNewbie #DevTips #100DaysOfCode
+1. Use StringBuilder instead of String concatenation in loops for better performance.
+2. Prefer composition over inheritance when designing Java classes.
+3. Always override toString(), equals(), and hashCode() in your POJOs.
+4. Use try-with-resources to close streams and JDBC objects automatically.
+5. Mark variables final when they shouldn't be reassigned to ensure immutability.
+6. Avoid memory leaks by removing unused listeners and cleaning up references.
+7. Use enums instead of integer constants for better type safety and clarity.
+8. Use Optional to handle nullable return values in a safe and clean way.
+9. Avoid public fields; always use private fields with getters and setters.
+10. Use descriptive names for variables and methods to make your code more readable.
+11. Avoid static methods and fields unless truly necessary in shared utilities.
+12. Use switch expressions (Java 14+) for concise branching logic.
+13. Use the Java Streams API for functional-style collection processing.
+14. Use method references to simplify lambda expressions and improve readability.
+15. Replace java.util.Date with java.time API for better date and time handling.
+16. Never block the UI thread — always use background threads or async tasks.
+17. Use @Override annotation to avoid accidental method mismatches.
+18. Generate Javadoc for public methods to help other developers understand your API.
+19. Favor interface-based design for flexibility and extensibility.
+20. Use logging frameworks like Log4j or SLF4J instead of System.out.println.
+21. Avoid deep inheritance trees — they reduce maintainability and increase complexity.
+22. Always initialize collections properly to avoid NullPointerExceptions.
+23. Use assertions to catch programming errors during development.
+24. Prefer for-each loops over indexed loops when you don’t need the index.
+25. Use LinkedList only when frequent insertions/deletions are needed.
+26. Prefer ArrayList for most list operations due to better cache locality.
+27. Use var (Java 10+) to reduce verbosity in local variable declarations.
+28. Avoid writing your own synchronization logic — use Concurrent collections.
+29. Don’t forget to use the @FunctionalInterface annotation for custom functional interfaces.
+30. Learn and use Java’s built-in functional interfaces like Predicate, Consumer, Supplier, Function.
+31. Avoid throwing generic Exception — always throw specific ones.
+32. Catch exceptions selectively — avoid catching Exception or Throwable unless truly needed.
+33. Avoid hardcoding values — use constants or config files.
+34. Use factory methods to simplify object creation and hide implementation details.
+35. Use sealed classes (Java 17+) to restrict which classes can extend a class.
+36. Avoid using raw types in generics — always use parameterized types.
+37. Use diamond operator (<>) to reduce verbosity in generics.
+38. Split long methods into smaller ones to improve readability and testability.
+39. Avoid using == to compare Strings — always use equals().
+40. Use pattern matching for instanceof (Java 16+) for cleaner type casting.
+41. Use Streams .collect(Collectors.toMap()) to create maps efficiently.
+42. Use map().filter().findFirst() to chain transformations functionally.
+43. Don't reinvent the wheel — use standard library APIs.
+44. Always close JDBC ResultSet, Statement, and Connection objects.
+45. Prefer PreparedStatement over Statement to prevent SQL injection.
+46. Cache expensive computations using memoization techniques.
+47. Avoid circular dependencies in class design — they break modularity.
+48. Use composition to wrap behavior instead of extending for reuse.
+49. Always specify serialVersionUID when implementing Serializable.
+50. Use interfaces to decouple implementation logic from interface definitions.
+51. Use enums with behavior by adding abstract methods inside enum constants.
+52. Override equals() and hashCode() together to ensure consistent behavior in collections.
+53. Use synchronized blocks on the smallest possible scope for thread safety.
+54. Avoid using Vector and Hashtable — they are outdated. Use ArrayList and HashMap instead.
+55. Don’t catch NullPointerExceptions — prevent them using Optional and proper null checks.
+56. Use static imports to improve code readability for constants and utility methods.
+57. Avoid deeply nested if-else blocks — use guard clauses to return early.
+58. Java 8's lambda expressions can make callback logic cleaner and more concise.
+59. Always unit test your business logic — use JUnit or TestNG.
+60. Use @NotNull and @Nullable annotations to document your APIs.
+61. Understand the difference between equals() and == — use them wisely.
+62. Use BigDecimal for precise financial or currency calculations.
+63. Use String.format() for clean string formatting instead of concatenation.
+64. Use readResolve() to prevent multiple instances of singletons in serialization.
+65. Avoid calling overridable methods from constructors.
+66. Know the difference between ArrayList and LinkedList in terms of insertion and lookup.
+67. Prefer immutable classes when passing data between layers.
+68. Use ThreadPoolExecutor for managing multiple threads efficiently.
+69. Implement Comparable for natural ordering; Comparator for custom sort logic.
+70. Prefer try-catch-finally over try-catch alone for complete exception handling.
+71. Always release locks in a finally block to avoid deadlocks.
+72. Use BlockingQueue to share work between producer and consumer threads.
+73. Always validate user input on both client and server sides.
+74. Avoid finalizers — use try-with-resources or cleaners instead.
+75. Use volatile for variables shared across threads to ensure visibility.
+76. Avoid busy waiting; use wait/notify or concurrency APIs.
+77. Override finalize() only if you really understand the GC implications.
+78. Use a profiler to find performance bottlenecks in your Java applications.
+79. Use enum Singleton for thread-safe, serializable singleton implementation.
+80. Avoid using Thread.sleep() in production logic — use scheduling frameworks instead.
+81. Always benchmark your code before and after optimization.
+82. Use the `assert` keyword to catch development-time bugs.
+83. Don't rely on GC to clean up — manage resources manually if possible.
+84. Make sure hashCode() produces consistent results for equal objects.
+85. Use BufferedReader and BufferedWriter for efficient file I/O.
+86. Never expose mutable internal state from a class.
+87. Use defensive copying when exposing arrays or collections in public APIs.
+88. Learn how garbage collection works to write better memory-safe Java code.
+89. Avoid initializing large objects in constructors if not always needed.
+90. Be cautious with statics in web applications — they are shared across sessions.
+91. Prefer logging exceptions instead of just printing stack traces.
+92. Be careful while using inheritance with ORM frameworks like Hibernate.
+93. Always specify generic types while using collections to avoid ClassCastException.
+94. Use TreeMap or TreeSet if you need sorted collections.
+95. Handle InterruptedException properly when working with threads.
+96. Prefer short-circuiting logic with && and || to avoid unnecessary evaluations.
+97. Know when to use shallow copy vs deep copy in cloning.
+98. Use WeakHashMap for memory-sensitive caching with automatic GC support.
+99. Always benchmark multithreaded code — assumptions about speed can be wrong.
+100. Follow SOLID principles for better, maintainable Java architecture.
+101. Understand time and space complexity of each algorithm you write or use.
+102. Use HashMap to reduce nested loops from O(n²) to O(n).
+103. Practice recursion problems and understand base + recursive cases deeply.
+104. Apply sliding window for problems involving contiguous subarrays or substrings.
+105. Use binary search to reduce time complexity from O(n) to O(log n).
+106. Learn the logic behind bubble, insertion, merge, quick, and heap sort.
+107. Use BFS for finding the shortest path in unweighted graphs.
+108. Use DFS for cycle detection, connected components, and tree traversals.
+109. Apply memoization in recursion to avoid redundant computations.
+110. Use a stack for solving expression problems and backtracking.
+111. Learn to detect cycles in both directed and undirected graphs.
+112. Two-pointer technique works great for sorted arrays and linked lists.
+113. Prefix sum is powerful for range-based sum queries in arrays.
+114. Use Union-Find to efficiently manage disjoint sets and connected components.
+115. Understand the state transition in dynamic programming problems.
+116. Practice problems on binary trees: inorder, preorder, postorder traversals.
+117. Represent graphs using adjacency list for space efficiency.
+118. Use adjacency matrix when edge lookup speed matters more than space.
+119. Learn bit manipulation tricks like XOR swap and bit counting.
+120. PriorityQueue helps in greedy and Dijkstra-based shortest path algorithms.
+121. Learn Trie to solve string problems like autocomplete and prefix search.
+122. Greedy algorithms work when local optimal leads to global optimal.
+123. Practice pattern problems like Kadane’s Algorithm and Floyd’s Cycle Detection.
+124. Understand backtracking via N-Queens, Sudoku Solver, and Subset Sum.
+125. Know difference between recursion and iteration in terms of space usage.
+126. Understand amortized analysis in data structures like dynamic array resizing.
+127. Learn segment trees for range query problems.
+128. Use fast exponentiation to solve modular arithmetic efficiently.
+129. Binary lifting helps in Lowest Common Ancestor (LCA) problems in trees.
+130. Understand stack and queue operations under time constraints.
+131. Use monotonic stacks for next greater/smaller element type questions.
+132. Avoid brute force — always think how to reduce complexity.
+133. Visualize recursion using tree diagrams to understand calls and returns.
+134. Solve graph problems like topological sort and bipartite checking.
+135. Understand when to use BFS over DFS and vice versa.
+136. Dynamic programming requires identifying overlapping subproblems.
+137. Practice common DP problems like knapsack, LIS, LCS, etc.
+138. Learn how to convert recursive DP to iterative with memoization.
+139. Use hashmap with sliding window to solve substring and frequency problems.
+140. Binary Indexed Tree (Fenwick Tree) is helpful in cumulative frequency queries.
+141. Learn in-place algorithms that reduce space complexity.
+142. Be aware of integer overflow in arithmetic operations.
+143. Use fast input/output in competitive programming (Scanner is slower).
+144. Graph coloring can help solve scheduling and matching problems.
+145. Learn Disjoint Set Union with path compression and union by rank.
+146. Understand complexity trade-offs in sets vs arrays vs maps.
+147. Use edge cases like empty array or duplicates to test your solution.
+148. Brute force is acceptable only if constraints allow it.
+149. Randomized algorithms can help reduce average-case complexity.
+150. Practice time-bound coding rounds to improve accuracy under pressure.
+151. Use Git branches for feature development instead of committing directly to main.
+152. Always write meaningful commit messages — "fix bug in login" > "update".
+153. Use .gitignore to exclude build files, secrets, and temporary files from Git.
+154. Learn basic Git commands like clone, pull, push, branch, merge, stash, and rebase.
+155. Use GitHub issues to track bugs and feature requests in your projects.
+156. Learn Markdown to write beautiful GitHub READMEs and documentation.
+157. Document your code and project setup in README.md — helps others and future you.
+158. Use GitHub Actions for automating workflows like testing or tweeting tips.
+159. Use GitHub Pages or Vercel to deploy static websites for free.
+160. Use HTTPS over HTTP — it's essential for security and trust.
+161. Use semantic tags like <article>, <section>, <header> in HTML5 for better SEO and accessibility.
+162. Always use alt text on images for accessibility and screen readers.
+163. Use rem/em instead of px for scalable, responsive font sizing in CSS.
+164. Flexbox is ideal for aligning items; Grid is better for full layouts.
+165. Avoid inline CSS — use external stylesheets for maintainability.
+166. Compress images to reduce load time — use formats like WebP or AVIF.
+167. Use Chrome DevTools to debug layout issues and performance bottlenecks.
+168. Validate your HTML and CSS using W3C validator tools.
+169. Always test responsiveness on mobile devices or use media queries.
+170. Don’t block the main thread with heavy JS — use web workers or async operations.
+171. Always use === in JavaScript to avoid unexpected type coercion.
+172. Use const and let in JavaScript — avoid var completely.
+173. Modularize your JS code using ES6 import/export syntax.
+174. Avoid deeply nested callbacks — use Promises or async/await.
+175. Never trust frontend validation alone — always validate data on the backend too.
+176. Use fetch() or Axios for making AJAX requests in modern JS.
+177. Learn basic regular expressions — useful for validation and parsing.
+178. Use environment variables (.env) to store API keys and secrets.
+179. Hash passwords before storing them in a database — use bcrypt or Argon2.
+180. Don’t commit API keys or secrets to GitHub — use environment configs.
+181. Write unit tests to prevent regressions in critical functionality.
+182. Learn Postman to test and debug APIs easily.
+183. Avoid CORS issues by using proper headers and proxy setups.
+184. Always use HTTP status codes properly in your APIs.
+185. Use RESTful principles — resources, verbs (GET/POST/PUT/DELETE), and URIs.
+186. Learn to use curl or HTTPie from the command line to test endpoints.
+187. Monitor server logs to detect bugs and crashes early.
+188. Don’t push node_modules to GitHub — always use .gitignore.
+189. Learn about JSON and how to parse/stringify it in JavaScript.
+190. Use code formatters like Prettier and linters like ESLint in your projects.
+191. Contribute to open source — it's a great way to learn and network.
+192. Write tech blogs to share your learnings and boost your portfolio.
+193. Use ChatGPT and StackOverflow wisely — don’t copy blindly, understand solutions.
+194. Participate in coding contests to improve problem-solving under pressure.
+195. Create a personal website or portfolio to showcase your projects.
+196. Track your growth — use GitHub streaks, commit graphs, or journaling.
+197. Automate repetitive tasks — use bash scripts, GitHub Actions, or bots.
+198. Don’t chase 100 tools — master the core ones that solve real problems.
+199. Stay consistent — it beats bursts of short, scattered motivation.
+200. Teach others — it’s the best way to master coding yourself.
