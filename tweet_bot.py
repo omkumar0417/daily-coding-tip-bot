@@ -30,9 +30,10 @@ tip = tips[next_index]
 # Create tweet text
 tweet = f"💡 Daily Coding Tip #{next_index + 1}\n\n{tip}\n\n#100DaysOfCode #CodingTips #DevTips"
 
-# Post the tweet
-api.update_status(tweet)
-print(f"✅ Posted Tip #{next_index + 1}")
+print("👉 Copy and post this tweet manually:\n")
+print(tweet)
+print(f"📌 This was Tip #{next_index + 1}")
+
 
 # Update index for next run
 with open(index_file, "w") as f:
