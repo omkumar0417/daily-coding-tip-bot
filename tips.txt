@@ -1,0 +1,5 @@
+Use === in JavaScript to avoid type coercion.
+Always close JDBC using try-with-resources.
+In CSS, rem is better than px for responsiveness.
+HashMap reduces time from O(n²) to O(n) in many DSA problems.
+Use StringBuilder for looped string concatenation in Java.
